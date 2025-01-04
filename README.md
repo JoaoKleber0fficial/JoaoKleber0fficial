@@ -1,7 +1,7 @@
 ## Olá! Sou o João Kleber
 
 - 🔭 A procura de Emprego utilizando Front-End, projetos de Desing ou Full Stack
-- 🌱 Estudando Python
+- 🌱 Estudando MySQL
 - 📫 Contate-me no Email: joao.moraeskleber@gmail.com ...
 
 <div>
