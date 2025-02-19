@@ -1,6 +1,6 @@
 # Olá! Sou o João Kleber
 
-- 🔭 A procura de Emprego utilizando Front-End, Back-End ou projetos de Desing
+- 🔭 Hello, Welcome to my professional profile, feel free to explore my projects
 - 🌱 Estudando no SENAI - SUIÇO BRASILEIRO
 - 📫 Contate-me no Email: joao.moraeskleber@gmail.com
 
