@@ -1,7 +1,7 @@
-# Olá! Sou o João Kleber
+# Hi! I am João Kleber
 
 - 🔭 Hello, Welcome to my professional profile, feel free to explore my projects
-- 🌱 Estudando no SENAI - SUIÇO BRASILEIRO
+- 🌱 Studying in SENAI - SUIÇO BRASILEIRO
 - 📫 Contate-me no Email: joao.moraeskleber@gmail.com
 
 <div>
