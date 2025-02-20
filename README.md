@@ -39,6 +39,8 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-kleber-de-moraes-dias-9671162b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/JoaoKleber0fficial/JoaoKleber0fficial/blob/output/github-contribution-grid-snake.svg)
+###
 
+<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
 
+###
