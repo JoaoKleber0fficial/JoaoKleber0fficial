@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoaoKleber0fficial/JoaoKleber0fficial/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/JoaoKleber0fficial/JoaoKleber0fficial/blob/output/github-contribution-grid-snake.svg)
 
 ###
