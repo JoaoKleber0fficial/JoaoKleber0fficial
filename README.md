@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JoaoKleber0fficial/JoaoKleber0fficial/output/snake.svg" alt="Snake animation" />
 
 ###
