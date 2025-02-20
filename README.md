@@ -8,8 +8,6 @@
 - 🌱 Aprendendo mais sobre Front-end, Back-end, Analise de Dados e Design UI/UX.
 - 📫 Contate-me no Email: joao.moraeskleber@gmail.com
 
-![Minha animação]([https://exemplo.com/minha-animacao.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFmODNqNWY5dWFhMTRsaHpxeWlpZ3Vxc3VoNHZ0eXZhZjIzMmZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKA9WE5HGkLi8/giphy.gif))
-
 ### Minhas Skills
 
 <div>
