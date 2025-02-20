@@ -15,6 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKleber0fficial&layout=donut&theme=dark">
 </div>
 
+</br>
+
 **Aplicações e Dados Utilizados**
 
 <div style="display: inline_block">
