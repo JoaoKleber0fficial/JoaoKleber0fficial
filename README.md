@@ -4,9 +4,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de dados e software.
-- 🎓 Formado em Gestão da Qualidade pela Universidade Anhembi Morumbi, MBA em Gerenciamento de Projetos pela FGV e MBA em Data Science pela FIAP.
-- 💼 Trabalhando como Consultor de Business Intelligence na Data Mastery / Automation Specialist at Grenke.
-- 🌱 Aprendendo mais sobre Front-end, Back-end e MLOps.
+- 🎓 Estudando no Inteligencia e Analista de Dados no SENAI - SUIÇO BRASILEIRO.
+- 🌱 Aprendendo mais sobre Front-end, Back-end, Analise de Dados e Design UI/UX.
 - 📫 Contate-me no Email: joao.moraeskleber@gmail.com
 
 <div>
