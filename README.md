@@ -1,14 +1,13 @@
 # Hi! I am João Kleber
 ## Sobre mim
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de dados e software.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções eficientes de dados e software.
 - 🎓 Estudando no Inteligencia e Analista de Dados no SENAI - SUIÇO BRASILEIRO.
 - 🌱 Aprendendo mais sobre Front-end, Back-end, Analise de Dados e Design UI/UX.
 - 📫 Contate-me no Email: joao.moraeskleber@gmail.com
 
-#
+## Minhas Skills
 
 <div>
   <a href="https://beacons.ai/JoaoKleber0fficial">
