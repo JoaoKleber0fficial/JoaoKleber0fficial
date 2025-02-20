@@ -1,5 +1,5 @@
 # Hi! I am João Kleber
-## Sobre mim
+### Sobre mim
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções eficientes de dados e software.
@@ -7,7 +7,7 @@
 - 🌱 Aprendendo mais sobre Front-end, Back-end, Analise de Dados e Design UI/UX.
 - 📫 Contate-me no Email: joao.moraeskleber@gmail.com
 
-## Minhas Skills
+### Minhas Skills
 
 <div>
   <a href="https://beacons.ai/JoaoKleber0fficial">
@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKleber0fficial&layout=donut&theme=dark">
 </div>
 
-### Aplicações e Dados Utilizados
+* Aplicações e Dados Utilizados *
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
