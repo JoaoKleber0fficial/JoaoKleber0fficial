@@ -14,7 +14,7 @@
 <div>
   <a href="https://beacons.ai/JoaoKleber0fficial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoKleber0fficial&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKleber0fficial&layout=donut&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKleber0fficial&layout=bar&theme=dark">
 </div>
 
 ###
