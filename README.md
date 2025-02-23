@@ -67,7 +67,7 @@
 
 ###
 
-**Commits**
+**My frequency**
 
 <img src="https://raw.githubusercontent.com/JoaoKleber0fficial/JoaoKleber0fficial/output/snake.svg" alt="Snake animation" />
 
