@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Kleber;I'm+18+years+old;I'm+from+Brazil;I+Graduated+systems+Development;I'm+studying+at+Senai+Suiço+brasileiro;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -76,8 +76,6 @@
 
 ###
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+your+attention!;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+attention!+:%29)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
