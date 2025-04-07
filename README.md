@@ -17,6 +17,7 @@
   <a href="https://beacons.ai/JoaoKleber0fficial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoKleber0fficial&show_icons=true&hide_border=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoKleber0fficial&layout=compact&hide_border=true&theme=dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoKleber0fficial&theme=dark&border_radius=20" alt="JoaoKleber0fficial" />
 </div>
 
 ###
