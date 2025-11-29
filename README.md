@@ -30,15 +30,21 @@
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Joao-SQL" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
 
 </br>
 
-**Frameworks**
+**Frameworks & Libraries**
 <div> 
   <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Joao-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Joao-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Joao-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Joao-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Joao-NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Joao-Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Joao-Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+  <img align="center" alt="Joao-PySpark" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg">
 </div>
 
 </br>
@@ -51,20 +57,20 @@
 
 </br>
 
-**Tools**
+**Tools & Environments**
 <div>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />   
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Joao-Js" height="40" width="40" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000">
+  <img align="center" alt="Joao-Databricks" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png">
 </div>
 
 </br>
 
 **Redes Sociais**
 <div> 
-  <a href="https://www.instagram.com/_eojoao._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.moraeskleber@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-kleber-de-moraes-dias-9671162b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
