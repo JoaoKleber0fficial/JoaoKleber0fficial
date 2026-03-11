@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções eficientes de dados e software.
-- 🎓 Estudando no Inteligencia e Analista de Dados no SENAI - SUIÇO BRASILEIRO.
+- 🎓 Estudando no Inteligencia e Analista de Dados no SENAI - SUIÇO BRASILEIRA.
 - 🔍  Experiência em projetos academicos e pessoais.
 - 📫 Contate-me no Email: joao.moraeskleber@gmail.com | https://www.linkedin.com/in/joao-kleber-de-moraes/
 
